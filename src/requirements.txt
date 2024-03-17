@@ -1,0 +1,11 @@
+asgiref==3.7.2
+Django==4.2.11
+importlib-metadata==7.0.2
+platformdirs==4.2.0
+pycodestyle==2.11.1
+python-dotenv==1.0.1
+sqlparse==0.4.4
+tomli==2.0.1
+typing-extensions==4.10.0
+yapf==0.40.2
+zipp==3.18.1
