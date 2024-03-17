@@ -39,3 +39,6 @@ cp hooks/* .git/hooks/
 - _DOCKERHUB_USERNAME_ - username for docker (personal or org)
 - _DOCKERHUB_TOKEN_ - docker hub tokken, you create create one by following the [docs](https://docs.docker.com/security/for-developers/access-tokens/)
 - _SECRET_KEY_ - random string to act as a django secret key
+
+3. ### Adding Obserability (monitoring and logging)
+For monitoring the CI, you can configure datadog by following the [docs](https://www.datadoghq.com/blog/datadog-github-actions-ci-visibility/)
