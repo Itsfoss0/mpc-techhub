@@ -1,0 +1,7 @@
+**/.env
+.github/*
+**/__pycache__
+**/db.sqlite3
+README.md
+hooks/*
+assets/
